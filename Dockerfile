@@ -14,6 +14,12 @@ RUN apk --no-cache add transmission-daemon
 
 RUN rm -rf /tmp/*
 
+LABEL org.opencontainers.image.source="https://github.com/ianhaddock/transmission-container"
+
+LABEL org.opencontainers.image.description="Simple TransmissionBT Container."
+
+LABEL org.opencontainers.image.licenses=MIT
+
 ENTRYPOINT exec usr/bin/transmission-daemon \
     --foreground \
     --allowed ${NETWORK_RANGE} \
