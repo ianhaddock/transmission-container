@@ -2,7 +2,7 @@
 
 # Transmission Container
 
-Simplified [Transmission BT][1] container with opinonated defaults. Built as I was tied of dealing the added features of some popular containers.
+Simplified [Transmission BT][1] container with opinonated defaults. Built as I was tired of dealing the added features of some popular containers.
 
 ## Dockerfile
 
