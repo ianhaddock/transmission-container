@@ -1,0 +1,6 @@
+#.gitignore
+
+.DS_Store
+
+config/*
+!config/empty.file
