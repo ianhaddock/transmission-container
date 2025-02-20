@@ -1,4 +1,4 @@
-[![Docker Image CI](https://github.com/ianhaddock/transmission-container/actions/workflows/docker-image-ci.yml/badge.svg)](https://github.com/ianhaddock/transmission-container/actions/workflows/docker-image-ci.yml)
+[![Build](https://github.com/ianhaddock/transmission-container/actions/workflows/build.yml/badge.svg)](https://github.com/ianhaddock/transmission-container/actions/workflows/build.yml)
 
 # Transmission Container
 
